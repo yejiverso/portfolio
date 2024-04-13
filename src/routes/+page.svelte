@@ -7,6 +7,10 @@
             Em dezembro de 2015, ela fez um teste para a JYP Entertainment com a música "Like Ooh-Ahh" do girl group TWICE.
             Apareceu pela primeira vez em agosto de 2016 no "JYP showcase". Em 2017, juntamente com as futuras integrantes de seu atual grupo (exceto Lia), apareceu no reality show da Mnet, Stray Kids, como parte da equipe feminina de pré-debut da JYP Entertainment. No final de 2018, ela se tornou participante do programa de sobrevivência "The Fan" da SBS, mas desistiu sem marcar pontos suficientes.
         </p>
+        <audio autoplay>
+            <source src="wave to earth - seasons.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio>
         </div>
 <style lang="scss">
     @font-face {
