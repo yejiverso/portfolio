@@ -8,6 +8,13 @@
 <svelte:head>
     <title> Portfolio </title>
 </svelte:head>
+<div class="audiow">
+
+    <audio controls autoplay>
+        <source src="wave to earth - seasons.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+</div>
     <div class="jmk">
         <p>
             Yeji nasceu em 26 de maio de 2000, em Jeonju-do. Em 2014, tornou-se membro do grupo de dança de Jeonju "Blue Rump (Jeonju Youth Dance Club)". Ela se tornou uma aluna na escola de dança Near Art Story no primeiro ano do ensino médio.
@@ -15,10 +22,6 @@
             Apareceu pela primeira vez em agosto de 2016 no "JYP showcase". Em 2017, juntamente com as futuras integrantes de seu atual grupo (exceto Lia), apareceu no reality show da Mnet, Stray Kids, como parte da equipe feminina de pré-debut da JYP Entertainment. No final de 2018, ela se tornou participante do programa de sobrevivência "The Fan" da SBS, mas desistiu sem marcar pontos suficientes.
         </p>
 
-        <audio autoplay>
-            <source src="wave to earth - seasons.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
         <p class="hearts">{text}</p>
         <button on:click={grow}>Aperte aqui</button>
         </div>
@@ -31,7 +34,7 @@
         font-family: sedan;
         font-size: large;
         padding: 1vh 1vw;
-        margin: 25vh auto;
+        margin: 17vh auto;
         height: 45vh; 
         width: 65vh;
         border-style: solid;
@@ -45,5 +48,11 @@
         background-color: #ff748c;
         padding: 15px;
         border-radius: 15px;
+    }
+    .audiow {
+        margin: 0 auto;
+        width: 90vw;
+        display: flex;
+        justify-content: center;
     }
 </style>
