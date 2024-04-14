@@ -17,11 +17,7 @@
 </div>
     <div class="jmk">
         <p>
-            Yeji nasceu em 26 de maio de 2000, em Jeonju-do. Em 2014, tornou-se membro do grupo de dança de Jeonju "Blue Rump (Jeonju Youth Dance Club)". Ela se tornou uma aluna na escola de dança Near Art Story no primeiro ano do ensino médio.
-            Em dezembro de 2015, ela fez um teste para a JYP Entertainment com a música "Like Ooh-Ahh" do girl group TWICE.
-            Apareceu pela primeira vez em agosto de 2016 no "JYP showcase". Em 2017, juntamente com as futuras integrantes de seu atual grupo (exceto Lia), apareceu no reality show da Mnet, Stray Kids, como parte da equipe feminina de pré-debut da JYP Entertainment. No final de 2018, ela se tornou participante do programa de sobrevivência "The Fan" da SBS, mas desistiu sem marcar pontos suficientes.
-        </p>
-
+            Júlia Kraus, saiba que enquanto eu existir, você vai ter eternamente alguém do seu lado. Quero ser sua parceirinha de tudo, no amor, na amizade, nos momentos bons e mais ainda nos ruins. Você é a pessoa que eu quero ir quando meu peito apertar e o mundo parecer cruel demais, sua voz tem o poder de curar tudo pra mim, queria ser a sua musa pra ser eternamente adorada pelos lindos olhos que você tem. Não consigo invejar bilionários, famosos, que seja, eu sou amada pela Júlia. Quão mais sortuda eu poderia ser? a boquinha linda dela agora é minha, eu vou ser a pessoa que vai amar ela do bom dia até o boa noite, euzinha, mais ninguém. Acho que o paraíso realmente existe, me dou conta disso toda vez que olho pra você. Eu te amo, meu amor. Como é bom te amar, juju. Obrigada por esse privilégio.        </p>
         <p class="hearts">{text}</p>
         <button on:click={grow}>Aperte aqui</button>
         </div>
